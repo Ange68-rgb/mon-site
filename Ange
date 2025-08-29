@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+   table, td, th {
+                           border: 1px solid black;
+                           border-collapse: collapse;
+    }
+  <style>
+ <head>
+  <body>
+   <table style = " width: 100% ">
+     <tr>
+       <th>NOM</th>
+       <th>PRÉNOM</th>
+       <th>DATE</th>
+       <th>LIEU</th>
+     </tr>
+     <tr>
+      <td>BAHIE</td>
+      <td>Ange-Valérie</td>
+      <td>28/04/06</td>
+      <td>Port-Bouët</td>
+      </tr>
+      <tr>
+       <td>BOUHOUSSOU</td>
+       <td>YAO JULIEN</td>
+       <td>01/02/03</td>
+       <td>GAGNOA</td>
+      </tr>
+      <tr>
+       <td>KOFFI</td>
+       <td>ARIEL EBENEZER</td>
+       <td>02/03/04</td>
+       <td>DANANE</td>
+      </tr>
+      <tr>
+       <td>KOUASSI</td>
+       <td>KOUADIO CHRIST</td>
+       <td>04/05/98</td>
+       <td>ABOISSO</td>
+      </tr>
+     </table>
+    </body>
+   </html>
